@@ -34,8 +34,7 @@ Tout est open source. Tout est documenté. Pas de théorie — que du concret.
 ### 🤖 Agent SRE Autonome — Zabbix + n8n + IA
 > Détection → Diagnostic IA → Ticket GLPI → Auto-remédiation. Cycle complet, zéro intervention manuelle.
 
-Stack : `Zabbix` `Loki` `n8n` `GLPI` `Gemini`  
-[→ Voir le repo](#) *(bientôt disponible)*
+Stack : `Zabbix` `Loki` `n8n` `GLPI` `Gemini` `Prometheus`
 
 ---
 
